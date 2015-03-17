@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/deniskarpenko/Desktop/Aerogear/Shoot/build/Debug-iphonesimulator/Pods.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/deniskarpenko/Desktop/Aerogear/Shoot/build/Pods.build/Debug-iphonesimulator/Pods.build/unextended-module.modulemap',
+    }]
+  }]
+}

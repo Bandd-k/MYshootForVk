@@ -1,0 +1,10 @@
+framework module Pods {
+  umbrella header "Pods-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Pods.Swift {
+    header "Pods-Swift.h"
+}
